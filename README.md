@@ -16,6 +16,9 @@ The goal of the project was to:
 - Evaluate the model using predictive & discriminative metrics  
 - Visualize similarity using PCA and t-SNE  
 - Provide a clean, reproducible codebase for future research
+
+## Notebook
+The juyter notebook BDA_TimeGAN_CEP_2.ipynb contains all the scripts used to train the model on the dataset.
   
 ## Steps:
 1. Load dataset
